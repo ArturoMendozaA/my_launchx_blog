@@ -1,6 +1,6 @@
 ---
 title: Launch X Bitácora de viaje
-description: The hallway smelt of boiled cabbage and old rag mats.
+description: Cosas interesantes que he aprendido.
 ---
 
 Hola ✌️  soy el explorer ArturoMendozaA y este es mi blog personal donde compartiré mis aventuras de Launch X.
