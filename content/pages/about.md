@@ -5,17 +5,14 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## whoami
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Panta rhei ("everything flows")
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Un poco de aquí y de allá**
+Soy una persona curiosa y tengo varios intereses, creo que varios se pueden considerar relacionados a la programación.
 
+Pues ahora estoy estudiando este curso de programación, he estudiado varias cosas y había querido estudiar programación por un largo tiempo
+y creo que este curso llegó a mi en el tiempo justo, creo que estoy en un momento personal en el que puedo aprovechar en gran medida lo que aprenda aqui.
