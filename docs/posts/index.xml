@@ -28,5 +28,17 @@ Mentiría si dijera que todo ha sido fácil y realmente pienso que estaría mal 
  En lo posible intentar tener un código legible La documentació debe ser importante, aunque no tengo mucha experinecia en ello Tamién me parece muy importante tener alguna bibliografía en la cual apoyarse, si bien no siempre es posible estudiar los temas que quisieramos, creo que es bueno tener alguna referencia estructurada y no solamente buscar información cuando surge un problema  De los sentimientos y emociones no estoy seguro, creo que eso depende de la personalidad de cada persona y habrá una variación importante entre ellos, sin embargo debo decir que me soprendió mucho el mission commander Carlo, creo que después de verlo empiezo a pensar que es importante inspirar a la gente y recordar como se siente haber estado en el lugar de las personas a las que se les quiere enseñar.</description>
     </item>
     
+    <item>
+      <title>Primer live</title>
+      <link>https://arturomendozaa.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturomendozaa.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Primer live ¿Qué es lo más importante para un desarrollador de software?
+Para Carlo lo más importatnte es tener una vida plena y saludable, tener tiempo para disfrutar la vida.
+Para hacer bien nuestro trabajo, necesitamos conocer nuestras herramientas, que son las que nos volverán eficientes:
+ Sistema Operativo (con su respectiva línea de comando) Editor de texto (no importa el que ocupemos, debemos estudiarlo) Control de versiones (git y github)  Lo que vimos en la práctica</description>
+    </item>
+    
   </channel>
 </rss>
