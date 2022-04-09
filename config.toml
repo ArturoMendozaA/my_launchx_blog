@@ -4,6 +4,7 @@ title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
+enableEmoji = true
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
