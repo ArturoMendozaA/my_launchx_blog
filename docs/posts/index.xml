@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://arturomendozaa.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Tercer live</title>
+      <link>https://arturomendozaa.github.io/my_launchx_blog/posts/post_3/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturomendozaa.github.io/my_launchx_blog/posts/post_3/</guid>
+      <description>Ideas importantes  Node nos ayuda a modularizar V8 engine Es recomendable escribir en el blog cosas que aprendamos o nos parezcan interesantes  Ideas difusas  V8 :sweat: Sintaxis de node  </description>
+    </item>
+    
+    <item>
       <title>Del camino recorrido</title>
       <link>https://arturomendozaa.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
