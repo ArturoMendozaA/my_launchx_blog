@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://arturomendozaa.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Contribution activity</title>
+      <link>https://arturomendozaa.github.io/my_launchx_blog/posts/post_/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturomendozaa.github.io/my_launchx_blog/posts/post_/</guid>
+      <description>No aparecen mis contribuciones A muchas personas les ocurre esto y aunque puede ser que sea un asunto de que si es un fork o no, para mi el problema fue que tenía otro nombre.
+Pueden revisar el nombre que tienen registrado en su git desde la terminal con el comando $ git config user.name, para el mail $ git config user.email
+Y podemos modificarlos con los siguintes comandos:
+$ git config --global user.</description>
+    </item>
+    
+    <item>
       <title>Tercer live</title>
       <link>https://arturomendozaa.github.io/my_launchx_blog/posts/post_3/</link>
       <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
