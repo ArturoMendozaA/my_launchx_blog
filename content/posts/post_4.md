@@ -18,4 +18,8 @@ Y podemos modificarlos con los siguintes comandos:
 Ahora lo importante es que en el nombre tengan el mismo nombre que sus usuario de github, en mi caso: ArturoMendozaA
 y con esso ya parecen mis contribuciones
 
+![Imagen de la terminal](https://github.com/ArturoMendozaA/my_launchx_blog/blob/master/static/images/uno.png)
+
+![Imagen del nombre de usuario en github](https://github.com/ArturoMendozaA/my_launchx_blog/blob/master/static/images/tres.png)
+
 
