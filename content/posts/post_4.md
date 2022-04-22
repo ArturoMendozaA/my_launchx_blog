@@ -15,8 +15,11 @@ Y podemos modificarlos con los siguintes comandos:
 
 ```$ git config user.email "tu email" ```
 
-Ahora lo importante es que en el nombre tengan el mismo nombre que sus usuario de github, en mi caso: ArturoMendozaA
-y con esso ya parecen mis contribuciones
+Ahora lo importante es que en el nombre tengan el mismo email que sus usuario de github y para que apareciera mi imagen de usuario también tenia que ser el mismo nombre de usuario que en git,  mi caso: ArturoMendozaA
+
+Esto lo hice en la terminal, pero me di cuenta de que las contribuciones desde VSCode aparecian sin mi imagen de ususario, así que desde la termina dentro de VSCode volví a introducir mi email con el mismo código ```$ git config user.email "tu email" ```
+
+y con esso ya parecen mis contribuciones (pero no las del fork :confused: ) 
 
 ![Imagen de la terminal](images/uno.png)
 
@@ -25,6 +28,6 @@ y con esso ya parecen mis contribuciones
 ![Test Image](/uno.png)
 <img src = "/uno.png">
 
-![Test Image](images/tres.png)
-<img src = "images/tres.png">
+![Test Image](/tres.png)
+<img src = "/tres.png">
 
