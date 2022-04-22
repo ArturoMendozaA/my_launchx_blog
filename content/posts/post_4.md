@@ -22,4 +22,9 @@ y con esso ya parecen mis contribuciones
 
 ![Imagen del nombre de usuario en github](images/tres.png)
 
+![Test Image](/uno.png)
+<img src = "/uno.png">
+
+![Test Image](images/tres.png)
+<img src = "images/tres.png">
 
